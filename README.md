@@ -2,7 +2,7 @@
 28/02/2020
 
 ### Project Title
-BikeShare
+BikeShare Company
 
 ### Description
 BikeShare company in 3 cities in the us : Chicago, New York and Washington - data analisys about company overoll usage of bikes in the cities
@@ -13,4 +13,4 @@ new_york_city.csv,
 washington.csv
 
 ### Credits
-mom and dad
+mom and dad and george my dog
