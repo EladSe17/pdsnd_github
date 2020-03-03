@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+28/02/2020
 
 ### Project Title
-Replace the Project Title
+BikeShare
 
 ### Description
-Describe what your project is about and what it does
+BikeShare company in 3 cities in the us : Chicago, New York and Washington - data analisys about company overoll usage of bikes in the cities
 
 ### Files used
-Include the files used
+chicago.csv,
+new_york_city.csv,
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+mom and dad
